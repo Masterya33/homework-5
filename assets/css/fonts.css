@@ -1,0 +1,75 @@
+body{margin: 0;
+	
+}
+main{
+	width: 700px;
+	height: 100vh;
+}
+div{border-right: 60px solid red;
+	border-left: 60px solid blue;
+	background-image: url(https://images.unsplash.com/photo-1538710000786-d55b691296d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: wheat;
+	text-align: center;
+}
+.f1{
+	font-family: 'Alfa Slab One', cursive;
+	margin-top: 0px;
+	color: rgb(184, 111, 98);
+	font-size: 48px;
+	margin-bottom: -10px;
+	line-height: 1.1;
+	text-indent: 49px;
+	
+	padding: 10px;
+}
+.f2{
+	font-family: 'Carter One', cursive;
+	color: white;
+	font-size: 24px;
+	margin-bottom: -10px;
+	
+}
+.f3{
+	font-family: 'Cairo', sans-serif;
+	font-weight: 600;
+	font-size: 32px;
+	color: white;
+	line-height: 1.2;
+}
+.f4{
+	font-family: 'Times New Roman', Times, serif;
+	color: white;
+}
+.f5{
+	font-family: 'Mali', cursive;
+	font-size: 24px;
+	color: orangered;
+	margin-bottom: -15px;
+}
+.f6{
+	font-family: 'Cookie', cursive;
+	font-weight: 400;
+	font-size: 38px;
+}
+.f7{
+	font-family: 'Caveat', cursive;
+	font-weight: 900;
+	max-width: max-content;
+	text-align: center;
+	background-color: white;
+	margin-left: 70px;
+	transform: rotate(-10deg);
+	font-size: 24px;
+	color:black;
+	text-shadow: 1px 1px 3px black;
+}
+.f8{
+	font-family: 'Oswald', sans-serif;
+	margin-left: 300px;
+	font-size: 32px;
+}
+span{
+	color: red;
+}
